@@ -2,7 +2,7 @@
 - 👀 I’m interested in space and technology
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my mail is omniaarafat553@gmail.com
+- 📫 How to reach me my mail is omniaarafat224.a@gmail.com
 
 <!---
 Omnia-Arafat/Omnia-Arafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
